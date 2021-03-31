@@ -1,0 +1,67 @@
+* {
+    
+}
+
+.logo {
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.header {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+}
+
+.header .filter {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.header p {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+button {
+    width: 160px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: darkgrey;
+    color: white;
+    margin-bottom: 40px;
+    border: none;
+    font-family: 'Quicksand', sans-serif;
+}
+
+a:visited {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.header ul {
+    width: 30%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 75px;
+    padding: 0px;
+}
+
+.header a {
+    text-decoration: none;
+}
+
+
+.container {
+    margin: 0 auto;
+    width: 75%;
+    
+}
