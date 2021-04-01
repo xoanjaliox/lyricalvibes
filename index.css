@@ -37,6 +37,7 @@
     font-family: 'Quicksand', sans-serif;
 }
 
+/*
 a.button-text:link {
    color: #ffffff;
    text-decoration: none;
@@ -56,6 +57,7 @@ a.nav-link:active {
    color: #ffffff;
    text-decoration: none;
 }
+*/
 
 .header ul {
     width: 30%;
@@ -69,9 +71,6 @@ a.nav-link:active {
     padding: 0px;
 }
 
-.header a {
-    text-decoration: none;
-}
 
 
 .container {
