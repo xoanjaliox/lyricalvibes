@@ -26,11 +26,16 @@
     font-weight: 400;
 }
 
-.button-text {
+button {
     width: 160px;
     height: 45px;
     border-radius: 10px;
     background-color: #6a0d83;
+    margin-bottom: 40px;
+    border: none;
+}
+
+.button-text {
     color: #ffffff;
     margin-bottom: 40px;
     border: none;
