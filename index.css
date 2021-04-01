@@ -37,10 +37,10 @@ button {
     font-family: 'Quicksand', sans-serif;
 }
 
-a:visited {
+/* a:visited /*{
     text-decoration: none;
     color: #ffffff;
-}
+}*/
 
 
 .header ul {
