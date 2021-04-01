@@ -42,6 +42,13 @@ button {
     font-family: 'Quicksand', sans-serif;
 }
 
+.button-text a:visited {
+    color: #ffffff;
+    margin-bottom: 40px;
+    border: none;
+    font-family: 'Quicksand', sans-serif;
+}
+
 /*
 a.button-text:link {
    color: #ffffff;
