@@ -31,7 +31,7 @@ button {
     height: 45px;
     border-radius: 10px;
     background-color: #6a0d83;
-    color: white;
+    color: #ffffff;
     margin-bottom: 40px;
     border: none;
     font-family: 'Quicksand', sans-serif;
@@ -39,7 +39,7 @@ button {
 
 a:visited {
     text-decoration: none;
-    color: inherit;
+    color: #ffffff;
 }
 
 
